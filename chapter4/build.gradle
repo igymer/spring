@@ -1,6 +1,6 @@
 apply plugin: 'application'
 
-mainClassName = 'ch4.lifecycle.Main'
+mainClassName = 'ch4.profiles.Main'
 
 dependencies {
     compile group: 'org.springframework', name: 'spring-context', version: rootProject.ext.springVersion
